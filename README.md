@@ -1,8 +1,8 @@
 # langchain_usecase
 
 ### Aim 
-In this lesson we see the usecases of LLM in real world with the help of langchain tools.
-Main Use Cases
+In this lesson we see the usecases of LLM in real world with the help of langchain tools. <br/>
+**Main Use Cases**<br/>
 - Summarization - Express the most important facts about a body of text or chat interaction
 - Question and Answering Over Documents - Use information held within documents to answer questions or query
 - Extraction - Pull structured data from a body of text or an user query
